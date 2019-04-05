@@ -1,0 +1,146 @@
+%----------------------------------------------------------------------------------------
+%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+%----------------------------------------------------------------------------------------
+\documentclass[margin, centered]{res}
+\topmargin=-0.5in
+\oddsidemargin -.5in
+\evensidemargin -.5in
+\textwidth=6.5in
+\itemsep=0in
+\parsep=0in
+\newsectionwidth{1in}
+\usepackage{float}
+\usepackage[pdftex]{graphicx}
+\usepackage{enumitem}
+\usepackage{wrapfig}
+\usepackage{helvet}
+\usepackage[colorlinks = true,
+            linkcolor = blue,
+            urlcolor  = blue,
+            citecolor = blue,
+            anchorcolor = blue]{hyperref}
+\setlength{\textwidth}{6.5in} % Text width of the document
+\setlength{\textheight}{720pt}
+
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+%	NAME AND ADDRESS SECTION
+%----------------------------------------------------------------------------------------\
+\begin{flushleft}\hfill \\
+    \hspace{-\hoffset}
+    \huge\bf{Vidit Aggarwal}
+\end{flushleft}
+\begin{flushleft}
+\hspace{-\hoffset}
+\textbf{Address for Correspondence:}\\\hspace{-\hoffset}
+DIT University\\\hspace{-\hoffset}
+Mussoorie-Diversion Road, Dehradun,\\\hspace{-\hoffset}
+Uttarakhand-248009, India\\
+\hfill\\\hspace{-\hoffset}
+\textbf{Phone:} \(+91\) 9917617597, \(+91\) 8267941668\\\hspace{-\hoffset}
+\textbf{E-Mail:} \href{mailto:vidit.a.aggarwal@gmail.com}{vidit.a.aggarwal@gmail.com} \hfill \\ \ 
+\end{flushleft}
+\vspace{-6mm}
+\begin{center}
+
+
+\moveleft\hoffset\vbox{\hrule width 19cm height 0.5pt}
+\vspace{-12mm}
+\end{center}
+%\begin{center}
+%    \hspace{-\hoffset}
+    
+%\end{center}
+\vspace{-7mm}
+\begin{resume}
+
+%----------------------------------------------------------------------------------------
+%	EDUCATION SECTION
+%----------------------------------------------------------------------------------------
+\section{Education}
+\textbf{B.Tech in Computer Science} \hfill Expected 2020 \\
+\href{http://dituniversity.edu.in/}{DIT University, Dehradun, India}
+\begin{itemize}
+ \item CGPA of  \textbf{7.98}/10 (Upto V\textsuperscript{th} Sem)
+\end{itemize}
+\textbf{Intermediate} - {Holy Ganges Public School, Haridwar} (CBSE) - 83\% \hfill 2016 \\
+\textbf{High School} - {Holy Ganges Public School, Haridwar} (CBSE) -  CGPA of 9.8/10 \hfill 2014 
+ 
+
+%----------------------------------------------------------------------------------------
+%	TECHNICAL SKILLS SECTION
+%----------------------------------------------------------------------------------------
+\section{Technical \hspace{2mm} Skills}
+\textbf{Operating Systems} - Windows, Linux \\
+\textbf{Languages} - Python3, C++, C, HTML5, Java, C\#, CSS3\\
+\textbf{Tools} - Anaconda, MySQL, \LaTeX, MS Office Suite, Git
+
+
+%----------------------------------------------------------------------------------------
+%	CERTIFICATIONS
+%----------------------------------------------------------------------------------------
+\section{Trainings \hspace{2mm} and \hspace{12mm} Projects}
+%\setlist[itemize]{
+\begin{itemize}[leftmargin=*]
+ \item \textbf{Programming in C++} - IIT Kharagpur (NPTEL)\hfill 2017
+ \item \textbf{Python for Data Science and Machine Learning Bootcamp
+} - Udemy \hfill 2019
+ \item \textbf{Sentiment Analysis using Machine Learning} - Project\hfill 2019
+\end{itemize}
+
+%----------------------------------------------------------------------------------------
+%	ACHIEVEMENT SECTION
+%----------------------------------------------------------------------------------------
+
+\section{Achievements and Awards}
+\begin{itemize}[leftmargin=*]
+ 
+
+
+\item Participated and Cleared the first round of Caliber “de-en-quete” Senior, organised by ME Society, Dept. of ME, IIT BHU.
+\item Active participant on online competitive coding websites - CodeChef, SPOJ, etc.
+\item Participated and Cleared TCS-ion Aptitude Test, organised by CSI-DITU Chapter.
+\item Participated in various coding and other events during Youthopia 2016, 17 (Annual Cultural and Technical Festival, DIT University).
+\item Awarded as the ‘Ideal Student’ for the year 2011-12, Holy Ganges Public School, Haridwar.
+\item Participated in Technothlon 2015 conducted as an event of Techniche 2015, IIT Guwahati.
+\end{itemize}
+%----------------------------------------------------------------------------------------
+%	CO-CURRICULAR ACTIVITIES
+%----------------------------------------------------------------------------------------
+\section{Extra Curricular Activities}
+\begin{itemize}[leftmargin=*]
+
+\item Senior Volunteer at Utthan.
+\item Head Boy for the Academic Year  2015-16, Holy Ganges Public School, Haridwar.
+\item Deputy Head Boy for the Academic Year  2014-15, Holy Ganges Public School, Haridwar.
+
+
+\end{itemize}
+
+%----------------------------------------------------------------------------------------
+%	HOBBIES SECTION
+%----------------------------------------------------------------------------------------
+
+\section{Hobbies}
+Competitive Coding, Amateur Photography, Reading, Gaming.
+
+\section{Personal Details}
+\begin{table}[H]
+\begin{tabular}{lll}
+\textbf{Date of Birth} & \textbf{:} & 22-09-1998 \\
+\textbf{Father's Name} & \textbf{:} & Mr. Anurag Aggarwal \\
+\textbf{Mother's Name} & \textbf{:} & Mrs. Monika Aggarwal \\
+\textbf{Gender} & \textbf{:} & Male \\
+\textbf{Permanent Address} & \textbf{:} & 13, Nirmala Chhawni, near Railway Station, Haridwar, Uttrakhand-249401, India
+\end{tabular}
+\end{table}
+
+\hspace{-\hoffset}
+I hereby declare that the above details are correct and true to the best of my knowledge.\hfill
+
+\hspace{-\hoffset}
+\textbf{Vidit Aggarwal}
+
+\end{resume}
+\end{document}
